@@ -20,9 +20,7 @@ What things you need to install?
 * opencv-python
 
 ```
-## License
 
-This project is licensed under the Apache license 2.0	
 
 
 
